@@ -1,0 +1,23 @@
+h1
+{
+color: #27DBAD;
+text-align: center;
+text-shadow: 5px 1px black;
+font-family: 'Open Sans Condensed', sans-serif;
+font-weight: bold;
+}
+h2{
+color: #2DE7BA;
+text-align: center;
+text-shadow: 2px 4px black;
+font-family: 'Be Vietnam Pro', sans-serif;
+}
+ul {
+display: table;
+margin: 0 auto;
+color: #2DE7BA;
+text-align: center;
+text-shadow: 2px 4px black;
+font-family: 'Be Vietnam Pro', sans-serif;
+font-size: 30px;
+}
