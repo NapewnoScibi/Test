@@ -6,7 +6,7 @@ text-shadow: 5px 1px black;
 font-family: 'Open Sans Condensed', sans-serif;
 font-weight: bold;
 }
-h2{
+h2  ,h3,h4{
 color: #2DE7BA;
 text-align: center;
 text-shadow: 2px 4px black;
